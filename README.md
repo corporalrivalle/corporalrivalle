@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @corporalrivalle, a BS in Computer Science at CSU Long Beach set to graduate in Spring of 2023
+- 👋 Hi, I’m @corporalrivalle, a BS in Computer Science at CSU Long Beach.
 - 🌱 I’m currently learning web design and backend algorithms.
 - 💞️ I’m looking to collaborate on game oriented web design and eventually game design itself.
 - 📫 How to reach me. Discord: Flame#6486, Email: derekzhang19@gmail.com
