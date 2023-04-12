@@ -1,6 +1,6 @@
-- 👋 My name is Derek Zhang, student at CSU Long Beach studying Computer Science.
-- 🌱 I’m currently learning web design and backend algorithms.
-- 💞️ I’m looking to collaborate on game oriented web design and eventually game design itself.
+- 👋 Hi! I'm Derek, a fourth year Computer Science Major at CSULB. 
+- 🌱 Currently studying up on the AngularJS Framework in preparation of developing an SPA. 
+- 💞️ I'm open to collaboration on all sorts of projects, from SPA web apps to CLI programs. Constantly looking for new ideas and new things to try1
 - 📫 How to reach me. Discord: Flame#6486, Email: derekzhang19@gmail.com
 
 <!---
