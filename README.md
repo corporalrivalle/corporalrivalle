@@ -1,6 +1,6 @@
 ## Hey! 
-I'm Derek, Computer Science Major and Mathematics Minor at CSULB, poised to graduate in the Fall 2023 semester. 
-I'm currently studying up on Machine Learning to finish up my degree! I'm open to collaborations so if you think I would be a good fit for your project, don't hesitate to contact me.
+I'm Derek! I graduated with a Bachelor's in Computer Science and a Math Minor from CSU Long Beach, and I am currently working in industry.
+I'm open to collaborations so if you think I would be a good fit for your project, don't hesitate to contact me.
 Thanks for stopping by my profile. You can contact me via
 
 ## Contacts
